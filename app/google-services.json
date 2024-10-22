@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41951714279",
+    "project_id": "vtaregistration-2be3e",
+    "storage_bucket": "vtaregistration-2be3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41951714279:android:7a2438aecdff1e6810bb42",
+        "android_client_info": {
+          "package_name": "com.example.vtaregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6LR0z_-uNxR-B-YU0LHudJxX3qr9TPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
